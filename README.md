@@ -1,2 +1,2 @@
-# javacript
-projetinhos feitos com javascript no intuito de aprender mais sobre a linguagem 
+JavaScript
+Aulas que tive durante o curso de JavaScript
